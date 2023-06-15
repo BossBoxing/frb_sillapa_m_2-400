@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:modelnano",
+    "port": "/dev/tty.usbserial-14410",
+    "sketch": "Friend_M_201.ino"
+}
